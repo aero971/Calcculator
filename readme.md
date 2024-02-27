@@ -1,20 +1,18 @@
-Calculator App
-This is a simple calculator web application created using HTML, CSS, and JavaScript. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
+Calculator
+This is a simple calculator web application built using HTML, CSS, and JavaScript.
 
 Features
-Addition
-Subtraction
-Multiplication
-Division
-Clear button to reset the calculator
-Responsive design for various screen sizes
-How to Use
-Clone or download the repository to your local machine.
+Addition, subtraction, multiplication, and division operations.
+Percentage calculation.
+Clear input (AC) and delete last character (DEL) buttons.
+Keyboard support for input and operations.
+Usage
+Clone the repository or download the ZIP file.
 Open the index.html file in your web browser.
-Use the buttons to input numbers and perform operations.
-Press the "=" button to calculate the result.
-Press the "C" button to clear the input and start over.
-Technologies Used
-HTML
-CSS
-JavaScript
+Use the calculator to perform calculations either by clicking on the buttons or using the keyboard.
+Credits
+Designed and developed by: Rushikesh R Patil
+GitHub: aero971
+Website: rushipatil99.netlify.app
+Instagram: being_varah_mihir
+LinkedIn: rushi9999
